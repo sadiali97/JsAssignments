@@ -1,0 +1,138 @@
+/* h1 {
+margin-left: 70px;
+}
+form li {
+list-style: none;
+margin-bottom: 5px;
+}
+
+form ul li label{
+float: left;
+clear: left;
+width: 100px;
+text-align: right;
+margin-right: 10px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+}
+
+form ul li input, select, span {
+float: left;
+margin-bottom: 10px;
+}
+
+form textarea {
+float: left;
+width: 350px;
+height: 150px;
+}
+
+[type="submit"] {
+clear: left;
+margin: 20px 0 0 230px;
+font-size:18px
+}
+
+p {
+margin-left: 70px;
+font-weight: bold;
+} */
+
+h1{
+    font-family: cursive !important;
+    font-size: 40px;
+    background: #F5D9F7;
+    color: #7C1B84 !important;
+    font-weight: bold;
+    font-style: italic !important;
+    text-align: center;
+}
+.cont{
+    font-size: 20px;
+    background: #CAD9FA;
+    color: #225BD5 !important;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+h3{
+    font-family: cursive;
+    font-size: 25px;
+    text-decoration: underline;
+    background-color: #CAD9FA;
+    color: #225BD5 !important;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+.myButton {
+box-shadow:inset 0px 0px 0px 0px #fbafe3;
+background:linear-gradient(to bottom,  #7C1B84 5%, #F5D9F7 100%);
+background-color:#ff5bb0;
+border-radius:3px;
+border:1px solid  #7C1B84;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family:Verdana;
+font-size:19px;
+font-weight:bold;
+font-style:italic;
+padding:16px 53px;
+text-decoration:none;
+text-shadow:0px 4px 0px  #7C1B84;
+}
+.button {
+	box-shadow:inset 0px 0px 0px 0px #fbafe3;
+	background:linear-gradient(to bottom, #ff5bb0 5%, #ef027d 100%);
+	background-color:#ff5bb0;
+	border-radius:3px;
+	border:1px solid #ee1eb5;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:19px;
+	font-weight:bold;
+	font-style:italic;
+	padding:16px 53px;
+	text-decoration:none;
+	text-shadow:0px 4px 0px #c70067;
+}
+.tab{
+    border-collapse: collapse;
+    margin-top: 10px;
+    margin: 0 auto;
+   }
+.tab td,th {
+    border:5px solid #0D0C2E;
+    background-color: #9C9CB3;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
+.tab,th {
+    border:5px solid #0D0C2E;
+    background-color: #585885;
+}
+.img {
+    margin: 10px 400px
+}
+.largeImage {
+    width: 450px;
+    height: 300px;
+}
+#form{
+    width: 40%;
+    margin: 0 auto;
+    background-color: #F4E999;
+    border: 5px dashed #9C9CB3;
+}
+.para {
+    width:40%;
+    margin: 0 auto;
+    background-color: #F4E999;
+}
+#more {
+    display: none;
+}
